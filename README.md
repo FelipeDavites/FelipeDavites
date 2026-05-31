@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Felipe Davites 👋
 
-<!--
-**FelipeDavites/FelipeDavites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Profissional com experiência no segmento farmacêutico, atuando por mais de 18 anos em drogarias, chegando ao cargo de Gerente Administrativo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho com suporte em software para drogarias e estou em transição de carreira para Quality Assurance (QA), desenvolvendo conhecimentos em testes manuais, automação de testes e APIs.
+
+## Tecnologias e Ferramentas
+
+* Cypress
+* JavaScript
+* Postman
+* Git
+* GitHub
+* VS Code
+
+## Projetos
+
+### QA Automation Cypress
+
+Projeto de automação de testes utilizando Cypress.
+
+### QA Testes Manuais
+
+Documentação de casos de teste, planos de teste e relatórios de bugs.
+
+### API Testing Postman
+
+Testes de APIs REST utilizando Postman.
+
+## Objetivo
+
+Conquistar minha primeira oportunidade como QA Júnior e evoluir para QA Automation.
