@@ -12,7 +12,7 @@ Atualmente trabalho com suporte em software para drogarias e estou em transiçã
 * JavaScript
 * Postman
 * Git
-* GitHub
+* CI/CD (Github Actions)
 * VS Code
 
 ## Projetos
